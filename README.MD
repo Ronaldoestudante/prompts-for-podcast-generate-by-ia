@@ -65,7 +65,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
       width=80 
       src="https://avatars.githubusercontent.com/u/109828450?v=4&size=64"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspRonaldo Damaceno<br>
     &nbsp&nbsp&nbsp
     <a 
         href="https://github.com/felipeAguiarCode">

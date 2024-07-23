@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./https://github.com/Ronaldoestudante/prompts-for-podcast-generate-by-ia/blob/main/OIG4.jpg"
+    src="./assets/cover.png"
     width="300"
 />
 </p>

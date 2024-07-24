@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./OIG4.jpg"
+    src="./Imagem%20Podcast.jpeg"
     width="300"
 />
 </p>

@@ -28,7 +28,7 @@
 
 # Projeto Podcast Gerado por I.A.s
 ## Podcast Front End Wars
-## - [Para ouvir Click Aqui](youtube.com)
+## - [Para ouvir Click Aqui](Podcast%20Front%20End%20Wars.mp4)
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 

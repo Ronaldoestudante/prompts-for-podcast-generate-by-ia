@@ -27,7 +27,7 @@
 </div>
 
 # Projeto Podcast Gerado por I.A.s
-# Podcast Front End Wars
+## Podcast Front End Wars
 ## - [Para ouvir Click Aqui](youtube.com)
 ## 💻 Tecnologias utilizadas no projeto
 

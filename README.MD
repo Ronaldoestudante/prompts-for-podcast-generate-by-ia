@@ -27,6 +27,7 @@
 </div>
 
 # Projeto Podcast Gerado por I.A.s
+## - [Para ouvir Click Aqui](youtube.com)
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
